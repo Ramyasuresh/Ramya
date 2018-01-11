@@ -10,7 +10,7 @@ for(i=0;i<n;i++)
 {
 for(j=i+1;j<n;j++)
 {
-if(array[j]<array[i]
+if(array[j]<array[i])
 {
 t=array[i];
 array[i]=array[j];
